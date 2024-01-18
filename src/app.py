@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Pon a prueba tus neuronas')
 
-st.image('neurona.jpg')
+st.image("https://images.theconversation.com/files/339172/original/file-20200602-133875-1u1teus.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip")
 
 tab1, tab2, tab3 = st.tabs(["Una entrada", "Dos entradas", "Tres entradas"])
 
